@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/capitalsphere2.679ed70f.png"
   },
   {
-    "revision": "eedf71549b931c6371f9",
+    "revision": "0e4a3f31bd1e61c9c9ec",
     "url": "/portfolio/static/css/main.2d90ee22.chunk.css"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Resume.ac06f1f0.pdf"
   },
   {
-    "revision": "eedf71549b931c6371f9",
-    "url": "/portfolio/static/js/main.eedf7154.chunk.js"
+    "revision": "0e4a3f31bd1e61c9c9ec",
+    "url": "/portfolio/static/js/main.0e4a3f31.chunk.js"
   },
   {
     "revision": "4a500374646eedefb4fc64b16ce51ae8",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/lito5.cbafaac7.png"
   },
   {
-    "revision": "8c22360f819091c5a3be42ee82f1c598",
+    "revision": "eb8611d9c1f717e466cc7f83cbdd0a5e",
     "url": "/portfolio/index.html"
   }
 ];
