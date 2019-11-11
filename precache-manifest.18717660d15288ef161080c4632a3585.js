@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "b8b517b6f8b45d7165bfdff08e826d00",
-    "url": "/portfolio/static/media/d4sd_home4.b8b517b6.png"
+    "revision": "07fd359efbd00af297c4f60fbbff2e3e",
+    "url": "/portfolio/static/media/skill_prototyping.07fd359e.png"
   },
   {
-    "revision": "217bd01355718b007302",
+    "revision": "3e4fa969a5f659939341",
     "url": "/portfolio/static/css/main.80e0ae34.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/runtime~main.0fad4c0f.js"
   },
   {
-    "revision": "1807428ef0d41ee1f73f",
-    "url": "/portfolio/static/js/2.1807428e.chunk.js"
+    "revision": "e73413aca5f909337d6b",
+    "url": "/portfolio/static/js/2.e73413ac.chunk.js"
   },
   {
     "revision": "b12ec6a0540d415f861a293c94f21704",
@@ -24,8 +24,60 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/iphone.688dda25.png"
   },
   {
+    "revision": "543e0257dfe8ad40df0817df3d47ac96",
+    "url": "/portfolio/static/media/d4sd_about1.543e0257.png"
+  },
+  {
+    "revision": "5159b87b0546cee5c958df5bc97e334d",
+    "url": "/portfolio/static/media/d4sd_about2.5159b87b.png"
+  },
+  {
+    "revision": "c3206366bb2293656a58b7bb2a464322",
+    "url": "/portfolio/static/media/d4sd_about3.c3206366.jpg"
+  },
+  {
     "revision": "8aaa56c551be4bca9c6c1ad753401769",
     "url": "/portfolio/static/media/desktop1.8aaa56c5.png"
+  },
+  {
+    "revision": "663e25d03d44faca6cffbeb311ee24af",
+    "url": "/portfolio/static/media/d4sd_iter12.663e25d0.png"
+  },
+  {
+    "revision": "c40f6f439851a8754cfa63ac9dec6a0a",
+    "url": "/portfolio/static/media/d4sd_iter13.c40f6f43.png"
+  },
+  {
+    "revision": "c08a179673bf54946eee932bc963a0f1",
+    "url": "/portfolio/static/media/d4sd_iter14.c08a1796.png"
+  },
+  {
+    "revision": "d3b580102e51935446347f1f5ede53aa",
+    "url": "/portfolio/static/media/d4sd_home1.d3b58010.png"
+  },
+  {
+    "revision": "f8612bca21d5878139c96a962601c455",
+    "url": "/portfolio/static/media/d4sd_home2.f8612bca.png"
+  },
+  {
+    "revision": "f33aa4308c8258ffbb9cc74eca43828f",
+    "url": "/portfolio/static/media/d4sd_home3.f33aa430.png"
+  },
+  {
+    "revision": "b8b517b6f8b45d7165bfdff08e826d00",
+    "url": "/portfolio/static/media/d4sd_home4.b8b517b6.png"
+  },
+  {
+    "revision": "aebb49e77418e2075a16a5adc7178aed",
+    "url": "/portfolio/static/media/d4sd_home5.aebb49e7.png"
+  },
+  {
+    "revision": "245c2094cfda5205bfc5a622a6796375",
+    "url": "/portfolio/static/media/d4sd_home6.245c2094.png"
+  },
+  {
+    "revision": "9095120f20f54184f74ec23d77f4b3ff",
+    "url": "/portfolio/static/media/Capitalsphere_desktop.9095120f.png"
   },
   {
     "revision": "ec8da4034f2ba87dbff65ceed2f587c4",
@@ -44,8 +96,20 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/lito_final2.b278d9da.png"
   },
   {
-    "revision": "9095120f20f54184f74ec23d77f4b3ff",
-    "url": "/portfolio/static/media/Capitalsphere_desktop.9095120f.png"
+    "revision": "72382af5d70190b91f89a932f13cae35",
+    "url": "/portfolio/static/media/d4sd_style1.72382af5.jpg"
+  },
+  {
+    "revision": "fe231e12c207a943ffb94f02309f95f1",
+    "url": "/portfolio/static/media/d4sd_style2.fe231e12.jpg"
+  },
+  {
+    "revision": "f181ee8a82cc4d59a27bbd53e394917c",
+    "url": "/portfolio/static/media/d4sd_style3.f181ee8a.jpg"
+  },
+  {
+    "revision": "758e22edb858e0e7dffa4b328b31fb49",
+    "url": "/portfolio/static/media/d4sd_iter2.758e22ed.png"
   },
   {
     "revision": "9e74520ef18490d45ec5196c6856293b",
@@ -92,8 +156,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/skill_css.e152f9e2.png"
   },
   {
-    "revision": "07fd359efbd00af297c4f60fbbff2e3e",
-    "url": "/portfolio/static/media/skill_prototyping.07fd359e.png"
+    "revision": "3e4fa969a5f659939341",
+    "url": "/portfolio/static/js/main.3e4fa969.chunk.js"
   },
   {
     "revision": "3df22e968a536879698af682c064057b",
@@ -112,52 +176,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/d4sd_iter11.176a142f.png"
   },
   {
-    "revision": "663e25d03d44faca6cffbeb311ee24af",
-    "url": "/portfolio/static/media/d4sd_iter12.663e25d0.png"
+    "revision": "b21f95066279f597cd275af20e9136f2",
+    "url": "/portfolio/static/media/im_research1.b21f9506.jpg"
   },
   {
-    "revision": "c40f6f439851a8754cfa63ac9dec6a0a",
-    "url": "/portfolio/static/media/d4sd_iter13.c40f6f43.png"
+    "revision": "78d36ccdd61978ec6152039bdbe790de",
+    "url": "/portfolio/static/media/im_research3.78d36ccd.jpg"
   },
   {
-    "revision": "c08a179673bf54946eee932bc963a0f1",
-    "url": "/portfolio/static/media/d4sd_iter14.c08a1796.png"
-  },
-  {
-    "revision": "543e0257dfe8ad40df0817df3d47ac96",
-    "url": "/portfolio/static/media/d4sd_about1.543e0257.png"
-  },
-  {
-    "revision": "5159b87b0546cee5c958df5bc97e334d",
-    "url": "/portfolio/static/media/d4sd_about2.5159b87b.png"
-  },
-  {
-    "revision": "c3206366bb2293656a58b7bb2a464322",
-    "url": "/portfolio/static/media/d4sd_about3.c3206366.jpg"
-  },
-  {
-    "revision": "d3b580102e51935446347f1f5ede53aa",
-    "url": "/portfolio/static/media/d4sd_home1.d3b58010.png"
-  },
-  {
-    "revision": "f8612bca21d5878139c96a962601c455",
-    "url": "/portfolio/static/media/d4sd_home2.f8612bca.png"
-  },
-  {
-    "revision": "f33aa4308c8258ffbb9cc74eca43828f",
-    "url": "/portfolio/static/media/d4sd_home3.f33aa430.png"
-  },
-  {
-    "revision": "217bd01355718b007302",
-    "url": "/portfolio/static/js/main.217bd013.chunk.js"
-  },
-  {
-    "revision": "aebb49e77418e2075a16a5adc7178aed",
-    "url": "/portfolio/static/media/d4sd_home5.aebb49e7.png"
-  },
-  {
-    "revision": "245c2094cfda5205bfc5a622a6796375",
-    "url": "/portfolio/static/media/d4sd_home6.245c2094.png"
+    "revision": "a7123a32f48475588a61d6450839f434",
+    "url": "/portfolio/static/media/im_research4.a7123a32.jpg"
   },
   {
     "revision": "2d858039b466adcd962d6de151797b1b",
@@ -272,27 +300,15 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/capitalsphere2.679ed70f.png"
   },
   {
-    "revision": "72382af5d70190b91f89a932f13cae35",
-    "url": "/portfolio/static/media/d4sd_style1.72382af5.jpg"
-  },
-  {
-    "revision": "fe231e12c207a943ffb94f02309f95f1",
-    "url": "/portfolio/static/media/d4sd_style2.fe231e12.jpg"
-  },
-  {
-    "revision": "f181ee8a82cc4d59a27bbd53e394917c",
-    "url": "/portfolio/static/media/d4sd_style3.f181ee8a.jpg"
-  },
-  {
-    "revision": "758e22edb858e0e7dffa4b328b31fb49",
-    "url": "/portfolio/static/media/d4sd_iter2.758e22ed.png"
+    "revision": "083d92c5a2cd2e9aad1c78ea83e7a547",
+    "url": "/portfolio/static/media/im_research2.083d92c5.jpg"
   },
   {
     "revision": "41044a9e4e172ba1efbb92acc3c76625",
     "url": "/portfolio/static/media/lito_review2.41044a9e.png"
   },
   {
-    "revision": "58c20b72291d4a1a3a20af338a639d4e",
+    "revision": "ffa39e5fd81c0caf4a15a51e834a8bdb",
     "url": "/portfolio/index.html"
   }
 ];
