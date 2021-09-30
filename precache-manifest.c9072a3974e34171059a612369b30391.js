@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1eea70a063b08ff571a9dcf8e4d610fe",
+    "revision": "39cd8e0cb2ea8eaec7df94f21ba2855d",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "c89048c1dca84c9e3db3",
-    "url": "/portfolio/static/css/main.99812b32.chunk.css"
+    "revision": "0e8fcedccfc60fe1324e",
+    "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "57db3e415efab3f806ee",
-    "url": "/portfolio/static/js/2.cae3ed3d.chunk.js"
+    "revision": "6f4271c8d73bab7158d9",
+    "url": "/portfolio/static/css/main.7e9619b9.chunk.css"
   },
   {
-    "revision": "c89048c1dca84c9e3db3",
-    "url": "/portfolio/static/js/main.8f2c0916.chunk.js"
+    "revision": "0e8fcedccfc60fe1324e",
+    "url": "/portfolio/static/js/2.976fb7fc.chunk.js"
   },
   {
-    "revision": "6b26cb3bc1b9147ba086",
-    "url": "/portfolio/static/js/runtime-main.86a05020.js"
+    "revision": "609352ea6af9e0ac98be5b5fe36b1f6a",
+    "url": "/portfolio/static/js/2.976fb7fc.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "6f4271c8d73bab7158d9",
+    "url": "/portfolio/static/js/main.b824d9f2.chunk.js"
+  },
+  {
+    "revision": "7a6cc99bd8f08f9fa6ec",
+    "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
     "revision": "af507b6db4df05d41669ff5bc84dee9f",
@@ -60,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/capitalsphere_landing1.92c9f73d.png"
   },
   {
-    "revision": "a2a49846e75df5e85d8843acaf578866",
-    "url": "/portfolio/static/media/capitalsphere_landing2.a2a49846.png"
+    "revision": "22220a961b87cf9201bbb5492d43086d",
+    "url": "/portfolio/static/media/capitalsphere_landing2.22220a96.png"
   },
   {
     "revision": "b479e003d5d272f25b5a65d60a7a45bb",
@@ -70,6 +78,34 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "57876e903d9d63c37986687fcd03012f",
     "url": "/portfolio/static/media/capitalsphere_process.57876e90.svg"
+  },
+  {
+    "revision": "2093da05b5b92505b683a96440294ea0",
+    "url": "/portfolio/static/media/capitalsphere_sp1.2093da05.png"
+  },
+  {
+    "revision": "d3e40d9545aa8e56264c02558855212d",
+    "url": "/portfolio/static/media/capitalsphere_sp2.d3e40d95.png"
+  },
+  {
+    "revision": "9bccdfcaed80c78095791743025e1376",
+    "url": "/portfolio/static/media/capitalsphere_sp3.9bccdfca.png"
+  },
+  {
+    "revision": "daf4a76e1b28bfb24be8642760742ede",
+    "url": "/portfolio/static/media/capitalsphere_sp4.daf4a76e.png"
+  },
+  {
+    "revision": "200c316cada5ec375b50762235ce32d2",
+    "url": "/portfolio/static/media/capitalsphere_sp5.200c316c.png"
+  },
+  {
+    "revision": "7c89bfe892de2a7906c8f2348c744c96",
+    "url": "/portfolio/static/media/capitalsphere_sp6.7c89bfe8.png"
+  },
+  {
+    "revision": "d8e5928caa551c9b0ef396e4378bf8c3",
+    "url": "/portfolio/static/media/capitalsphere_sp7.d8e5928c.png"
   },
   {
     "revision": "059bf8e1353dea972a97b10aae9f9d83",
