@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39cd8e0cb2ea8eaec7df94f21ba2855d",
+    "revision": "aa18ea348feeb88d340f85602d8c7546",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "6f4271c8d73bab7158d9",
-    "url": "/portfolio/static/css/main.7e9619b9.chunk.css"
+    "revision": "e9f9e19026d54a4e9772",
+    "url": "/portfolio/static/css/main.236bf0ba.chunk.css"
   },
   {
     "revision": "0e8fcedccfc60fe1324e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.976fb7fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f4271c8d73bab7158d9",
-    "url": "/portfolio/static/js/main.b824d9f2.chunk.js"
+    "revision": "e9f9e19026d54a4e9772",
+    "url": "/portfolio/static/js/main.3efa3d37.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -80,24 +80,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/capitalsphere_process.57876e90.svg"
   },
   {
-    "revision": "2093da05b5b92505b683a96440294ea0",
-    "url": "/portfolio/static/media/capitalsphere_sp1.2093da05.png"
+    "revision": "b6c591974eebb23375e1f670a44f1dce",
+    "url": "/portfolio/static/media/capitalsphere_sp1.b6c59197.svg"
   },
   {
-    "revision": "d3e40d9545aa8e56264c02558855212d",
-    "url": "/portfolio/static/media/capitalsphere_sp2.d3e40d95.png"
+    "revision": "1ddfa42e3ca56f0c1a155d1972b5b077",
+    "url": "/portfolio/static/media/capitalsphere_sp2.1ddfa42e.svg"
   },
   {
-    "revision": "9bccdfcaed80c78095791743025e1376",
-    "url": "/portfolio/static/media/capitalsphere_sp3.9bccdfca.png"
+    "revision": "e9f3c3bfee08ec7aa222e0896a8295e7",
+    "url": "/portfolio/static/media/capitalsphere_sp3.e9f3c3bf.svg"
   },
   {
-    "revision": "daf4a76e1b28bfb24be8642760742ede",
-    "url": "/portfolio/static/media/capitalsphere_sp4.daf4a76e.png"
+    "revision": "7ca816f97a04531618886c6cffa7ade8",
+    "url": "/portfolio/static/media/capitalsphere_sp4.7ca816f9.svg"
   },
   {
-    "revision": "200c316cada5ec375b50762235ce32d2",
-    "url": "/portfolio/static/media/capitalsphere_sp5.200c316c.png"
+    "revision": "e6f11a54e9ab8c305a4749cfb026ae8c",
+    "url": "/portfolio/static/media/capitalsphere_sp5.e6f11a54.svg"
   },
   {
     "revision": "7c89bfe892de2a7906c8f2348c744c96",
