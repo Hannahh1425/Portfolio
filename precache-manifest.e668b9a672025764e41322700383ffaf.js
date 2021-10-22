@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa18ea348feeb88d340f85602d8c7546",
+    "revision": "867f8f137f0863f9a52f74e8c5729a91",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "0e8fcedccfc60fe1324e",
+    "revision": "d5b6091ddc9f6d116085",
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "e9f9e19026d54a4e9772",
+    "revision": "b5df0cd42c15102720a3",
     "url": "/portfolio/static/css/main.236bf0ba.chunk.css"
   },
   {
-    "revision": "0e8fcedccfc60fe1324e",
-    "url": "/portfolio/static/js/2.976fb7fc.chunk.js"
+    "revision": "d5b6091ddc9f6d116085",
+    "url": "/portfolio/static/js/2.92b3eee5.chunk.js"
   },
   {
     "revision": "609352ea6af9e0ac98be5b5fe36b1f6a",
-    "url": "/portfolio/static/js/2.976fb7fc.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.92b3eee5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9f9e19026d54a4e9772",
-    "url": "/portfolio/static/js/main.3efa3d37.chunk.js"
+    "revision": "b5df0cd42c15102720a3",
+    "url": "/portfolio/static/js/main.08eef885.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/capitalsphere_competitive.a87e54a7.png"
   },
   {
-    "revision": "3159b7d9706b9b38e68ca33c5e9da3a7",
-    "url": "/portfolio/static/media/capitalsphere_header.3159b7d9.png"
+    "revision": "3389f391cd012326ed89af37c1f46324",
+    "url": "/portfolio/static/media/capitalsphere_header.3389f391.png"
   },
   {
     "revision": "682a30a236c6f6ce22ff2885dcd54bc9",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/d4sd_current.059bf8e1.png"
   },
   {
-    "revision": "0add50e2acdad8b296e5fdd9eb96ea1b",
-    "url": "/portfolio/static/media/d4sd_header.0add50e2.png"
+    "revision": "a86002a307f862ce07f6e10e144b2b1d",
+    "url": "/portfolio/static/media/d4sd_header.a86002a3.png"
   },
   {
     "revision": "543e0257dfe8ad40df0817df3d47ac96",
@@ -256,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/meeting_ca.50052a08.png"
   },
   {
-    "revision": "3b8f1efe6419e07e20653cf59ae1c296",
-    "url": "/portfolio/static/media/meeting_header1.3b8f1efe.png"
+    "revision": "a472294b929b23aebb6f9c1b93f8a57c",
+    "url": "/portfolio/static/media/meeting_header1.a472294b.png"
   },
   {
     "revision": "2d9e734a02eebff7f6914dabce3c2fba",
