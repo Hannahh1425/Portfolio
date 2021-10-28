@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "867f8f137f0863f9a52f74e8c5729a91",
+    "revision": "2de26121b2fab3ad5a9a6b17dc687f80",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "b5df0cd42c15102720a3",
+    "revision": "a2893a8a6bdd5f04789d",
     "url": "/portfolio/static/css/main.236bf0ba.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.92b3eee5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5df0cd42c15102720a3",
-    "url": "/portfolio/static/js/main.08eef885.chunk.js"
+    "revision": "a2893a8a6bdd5f04789d",
+    "url": "/portfolio/static/js/main.dfc51999.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/capitalsphere_ia2.13a26166.svg"
   },
   {
-    "revision": "1b7df4ba21dd9b949384ea484145d876",
-    "url": "/portfolio/static/media/capitalsphere_interview.1b7df4ba.svg"
+    "revision": "9d8b84f21e65c3a93b9c80e5c8727101",
+    "url": "/portfolio/static/media/capitalsphere_interview.9d8b84f2.svg"
   },
   {
-    "revision": "f4674f14e2597af301ed01d0aae3c5fb",
-    "url": "/portfolio/static/media/capitalsphere_interview3.f4674f14.svg"
+    "revision": "8bd61274c0ee9ee6ca95294434f62f89",
+    "url": "/portfolio/static/media/capitalsphere_interview3.8bd61274.svg"
   },
   {
     "revision": "92c9f73d1c61077b1da49be9b29b1586",
