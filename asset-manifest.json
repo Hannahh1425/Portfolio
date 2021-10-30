@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.236bf0ba.chunk.css",
-    "main.js": "/portfolio/static/js/main.dfc51999.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.dfc51999.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.fdb06bd4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fdb06bd4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.1ba447cc.chunk.css": "/portfolio/static/css/2.1ba447cc.chunk.css",
-    "static/js/2.92b3eee5.chunk.js": "/portfolio/static/js/2.92b3eee5.chunk.js",
-    "static/js/2.92b3eee5.chunk.js.map": "/portfolio/static/js/2.92b3eee5.chunk.js.map",
+    "static/js/2.9a97f698.chunk.js": "/portfolio/static/js/2.9a97f698.chunk.js",
+    "static/js/2.9a97f698.chunk.js.map": "/portfolio/static/js/2.9a97f698.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.58fcaabf18024e44773fdaaa5e549f08.js": "/portfolio/precache-manifest.58fcaabf18024e44773fdaaa5e549f08.js",
+    "precache-manifest.b216a5c00c34677d7de9370d832678ec.js": "/portfolio/precache-manifest.b216a5c00c34677d7de9370d832678ec.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.1ba447cc.chunk.css.map": "/portfolio/static/css/2.1ba447cc.chunk.css.map",
     "static/css/main.236bf0ba.chunk.css.map": "/portfolio/static/css/main.236bf0ba.chunk.css.map",
-    "static/js/2.92b3eee5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.92b3eee5.chunk.js.LICENSE.txt",
+    "static/js/2.9a97f698.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9a97f698.chunk.js.LICENSE.txt",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.af507b6d.pdf",
     "static/media/aboutme.png": "/portfolio/static/media/aboutme.44d9e27d.png",
-    "static/media/capitalsphere_challenge.svg": "/portfolio/static/media/capitalsphere_challenge.1e26fe29.svg",
+    "static/media/capitalsphere_challenge.png": "/portfolio/static/media/capitalsphere_challenge.479b1cd1.png",
     "static/media/capitalsphere_competitive.png": "/portfolio/static/media/capitalsphere_competitive.a87e54a7.png",
+    "static/media/capitalsphere_context.png": "/portfolio/static/media/capitalsphere_context.bca83b20.png",
     "static/media/capitalsphere_header.png": "/portfolio/static/media/capitalsphere_header.3389f391.png",
     "static/media/capitalsphere_ia1.svg": "/portfolio/static/media/capitalsphere_ia1.682a30a2.svg",
     "static/media/capitalsphere_ia2.svg": "/portfolio/static/media/capitalsphere_ia2.13a26166.svg",
@@ -27,6 +28,7 @@
     "static/media/capitalsphere_landing2.png": "/portfolio/static/media/capitalsphere_landing2.22220a96.png",
     "static/media/capitalsphere_p1.png": "/portfolio/static/media/capitalsphere_p1.b479e003.png",
     "static/media/capitalsphere_process.svg": "/portfolio/static/media/capitalsphere_process.57876e90.svg",
+    "static/media/capitalsphere_sp0.jpg": "/portfolio/static/media/capitalsphere_sp0.e727474d.jpg",
     "static/media/capitalsphere_sp1.svg": "/portfolio/static/media/capitalsphere_sp1.b6c59197.svg",
     "static/media/capitalsphere_sp2.svg": "/portfolio/static/media/capitalsphere_sp2.1ddfa42e.svg",
     "static/media/capitalsphere_sp3.svg": "/portfolio/static/media/capitalsphere_sp3.e9f3c3bf.svg",
@@ -87,8 +89,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.1ba447cc.chunk.css",
-    "static/js/2.92b3eee5.chunk.js",
+    "static/js/2.9a97f698.chunk.js",
     "static/css/main.236bf0ba.chunk.css",
-    "static/js/main.dfc51999.chunk.js"
+    "static/js/main.fdb06bd4.chunk.js"
   ]
 }

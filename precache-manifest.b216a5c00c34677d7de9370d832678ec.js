@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2de26121b2fab3ad5a9a6b17dc687f80",
+    "revision": "98a3385e604183302efd0c9140abccb9",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d5b6091ddc9f6d116085",
+    "revision": "b7303f8b896a53fba14d",
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "a2893a8a6bdd5f04789d",
+    "revision": "e21d505e1ed888095288",
     "url": "/portfolio/static/css/main.236bf0ba.chunk.css"
   },
   {
-    "revision": "d5b6091ddc9f6d116085",
-    "url": "/portfolio/static/js/2.92b3eee5.chunk.js"
+    "revision": "b7303f8b896a53fba14d",
+    "url": "/portfolio/static/js/2.9a97f698.chunk.js"
   },
   {
     "revision": "609352ea6af9e0ac98be5b5fe36b1f6a",
-    "url": "/portfolio/static/js/2.92b3eee5.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.9a97f698.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2893a8a6bdd5f04789d",
-    "url": "/portfolio/static/js/main.dfc51999.chunk.js"
+    "revision": "e21d505e1ed888095288",
+    "url": "/portfolio/static/js/main.fdb06bd4.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -36,12 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/aboutme.44d9e27d.png"
   },
   {
-    "revision": "1e26fe296e74fd2f16d3a5193b2e6f92",
-    "url": "/portfolio/static/media/capitalsphere_challenge.1e26fe29.svg"
+    "revision": "479b1cd1eb6e228a4bbab48281c5a147",
+    "url": "/portfolio/static/media/capitalsphere_challenge.479b1cd1.png"
   },
   {
     "revision": "a87e54a756728c6b81deddebfb34d349",
     "url": "/portfolio/static/media/capitalsphere_competitive.a87e54a7.png"
+  },
+  {
+    "revision": "bca83b20d2e51a6276378979fe81929c",
+    "url": "/portfolio/static/media/capitalsphere_context.bca83b20.png"
   },
   {
     "revision": "3389f391cd012326ed89af37c1f46324",
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "57876e903d9d63c37986687fcd03012f",
     "url": "/portfolio/static/media/capitalsphere_process.57876e90.svg"
+  },
+  {
+    "revision": "e727474d9249a1b5f571ebd42fe99fa2",
+    "url": "/portfolio/static/media/capitalsphere_sp0.e727474d.jpg"
   },
   {
     "revision": "b6c591974eebb23375e1f670a44f1dce",
