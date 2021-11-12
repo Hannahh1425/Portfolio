@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98a3385e604183302efd0c9140abccb9",
+    "revision": "666445a313ee8dbfac05c9444c149ea7",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "e21d505e1ed888095288",
+    "revision": "7903725d34e017fbd39f",
     "url": "/portfolio/static/css/main.236bf0ba.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.9a97f698.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e21d505e1ed888095288",
-    "url": "/portfolio/static/js/main.fdb06bd4.chunk.js"
+    "revision": "7903725d34e017fbd39f",
+    "url": "/portfolio/static/js/main.a87cc004.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/aboutme.44d9e27d.png"
   },
   {
-    "revision": "479b1cd1eb6e228a4bbab48281c5a147",
-    "url": "/portfolio/static/media/capitalsphere_challenge.479b1cd1.png"
+    "revision": "86458494952c6973e1d6360ed58cc972",
+    "url": "/portfolio/static/media/capitalsphere_challenge.86458494.png"
   },
   {
     "revision": "a87e54a756728c6b81deddebfb34d349",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/capitalsphere_ia2.13a26166.svg"
   },
   {
-    "revision": "9d8b84f21e65c3a93b9c80e5c8727101",
-    "url": "/portfolio/static/media/capitalsphere_interview.9d8b84f2.svg"
+    "revision": "12ec6c341a49efedbc2a35fec6fc1bbd",
+    "url": "/portfolio/static/media/capitalsphere_interview.12ec6c34.svg"
   },
   {
-    "revision": "8bd61274c0ee9ee6ca95294434f62f89",
-    "url": "/portfolio/static/media/capitalsphere_interview3.8bd61274.svg"
+    "revision": "06be3aada95df8eefb79ef59cdbba14b",
+    "url": "/portfolio/static/media/capitalsphere_interview3.06be3aad.svg"
   },
   {
     "revision": "92c9f73d1c61077b1da49be9b29b1586",
@@ -172,8 +172,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/home_litonail.a80ebe50.png"
   },
   {
-    "revision": "2fc2bb1d846260353e1e0a21e18311c9",
-    "url": "/portfolio/static/media/home_meeting.2fc2bb1d.png"
+    "revision": "2852df3c1abfdf0ce343c61aca8ffe26",
+    "url": "/portfolio/static/media/home_meeting.2852df3c.jpg"
   },
   {
     "revision": "14638598ccc2cb54f8e17f758244a309",
