@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03e07ce46053c632e5b8ccb0d1e359ae",
+    "revision": "c3781e3d5bf3e52ef9204c3ace5350db",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "3dbe6791939f023d1c47",
+    "revision": "8d7473da7e2ae1cc6a98",
     "url": "/portfolio/static/css/main.236bf0ba.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.9a97f698.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3dbe6791939f023d1c47",
-    "url": "/portfolio/static/js/main.fe4a825c.chunk.js"
+    "revision": "8d7473da7e2ae1cc6a98",
+    "url": "/portfolio/static/js/main.615cc1f8.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/capitalsphere_challenge.86458494.png"
   },
   {
-    "revision": "a87e54a756728c6b81deddebfb34d349",
-    "url": "/portfolio/static/media/capitalsphere_competitive.a87e54a7.png"
+    "revision": "af65889ba8daddb78c7ecbe40cd91155",
+    "url": "/portfolio/static/media/capitalsphere_competitive.af65889b.png"
   },
   {
     "revision": "bca83b20d2e51a6276378979fe81929c",
