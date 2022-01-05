@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0ba47eb6.chunk.css",
-    "main.js": "/portfolio/static/js/main.9793e600.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9793e600.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.1070874e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1070874e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.1ba447cc.chunk.css": "/portfolio/static/css/2.1ba447cc.chunk.css",
-    "static/js/2.d50d079d.chunk.js": "/portfolio/static/js/2.d50d079d.chunk.js",
-    "static/js/2.d50d079d.chunk.js.map": "/portfolio/static/js/2.d50d079d.chunk.js.map",
+    "static/js/2.0544eca9.chunk.js": "/portfolio/static/js/2.0544eca9.chunk.js",
+    "static/js/2.0544eca9.chunk.js.map": "/portfolio/static/js/2.0544eca9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.91d7fb656fdec2cb7c4f6cf40fff5c9f.js": "/portfolio/precache-manifest.91d7fb656fdec2cb7c4f6cf40fff5c9f.js",
+    "precache-manifest.dfac608b503ca7c5a89e2c777187c4c0.js": "/portfolio/precache-manifest.dfac608b503ca7c5a89e2c777187c4c0.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.1ba447cc.chunk.css.map": "/portfolio/static/css/2.1ba447cc.chunk.css.map",
     "static/css/main.0ba47eb6.chunk.css.map": "/portfolio/static/css/main.0ba47eb6.chunk.css.map",
-    "static/js/2.d50d079d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d50d079d.chunk.js.LICENSE.txt",
+    "static/js/2.0544eca9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0544eca9.chunk.js.LICENSE.txt",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.af507b6d.pdf",
     "static/media/aboutme.png": "/portfolio/static/media/aboutme.44d9e27d.png",
     "static/media/capitalsphere_challenge.png": "/portfolio/static/media/capitalsphere_challenge.86458494.png",
@@ -89,6 +89,7 @@
     "static/media/scatteringresources_ua.png": "/portfolio/static/media/scatteringresources_ua.6486592b.png",
     "static/media/smarthygiene_dr.svg": "/portfolio/static/media/smarthygiene_dr.f332b9ab.svg",
     "static/media/smarthygiene_header.svg": "/portfolio/static/media/smarthygiene_header.655cdba7.svg",
+    "static/media/smarthygiene_learnings.svg": "/portfolio/static/media/smarthygiene_learnings.c2bb9e4d.svg",
     "static/media/smarthygiene_sd.png": "/portfolio/static/media/smarthygiene_sd.7f4b3c8c.png",
     "static/media/sr_header.png": "/portfolio/static/media/sr_header.092f9143.png",
     "static/media/sr_home1.svg": "/portfolio/static/media/sr_home1.62fa6b1e.svg",
@@ -99,8 +100,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.1ba447cc.chunk.css",
-    "static/js/2.d50d079d.chunk.js",
+    "static/js/2.0544eca9.chunk.js",
     "static/css/main.0ba47eb6.chunk.css",
-    "static/js/main.9793e600.chunk.js"
+    "static/js/main.1070874e.chunk.js"
   ]
 }
