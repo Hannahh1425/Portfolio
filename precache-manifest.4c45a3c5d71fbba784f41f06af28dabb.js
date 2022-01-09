@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6dfc9be9deb644bf4587642474da47b",
+    "revision": "5f142e53c57d6868c42f4af79405d8eb",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "e46cb1f11b2af7207e00",
+    "revision": "b666cb444668d7013550",
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "a27aaaf8c7c909149792",
+    "revision": "22697a67243605fe73eb",
     "url": "/portfolio/static/css/main.0ba47eb6.chunk.css"
   },
   {
-    "revision": "e46cb1f11b2af7207e00",
-    "url": "/portfolio/static/js/2.0544eca9.chunk.js"
+    "revision": "b666cb444668d7013550",
+    "url": "/portfolio/static/js/2.6e2e6dcc.chunk.js"
   },
   {
     "revision": "609352ea6af9e0ac98be5b5fe36b1f6a",
-    "url": "/portfolio/static/js/2.0544eca9.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.6e2e6dcc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a27aaaf8c7c909149792",
-    "url": "/portfolio/static/js/main.1070874e.chunk.js"
+    "revision": "22697a67243605fe73eb",
+    "url": "/portfolio/static/js/main.10211894.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
-    "revision": "af507b6db4df05d41669ff5bc84dee9f",
-    "url": "/portfolio/static/media/Resume.af507b6d.pdf"
+    "revision": "95f1138eb4522c0d6cbd5809845b11b9",
+    "url": "/portfolio/static/media/Resume.95f1138e.pdf"
   },
   {
     "revision": "44d9e27de716ea709179674a59e5f986",
@@ -320,6 +320,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/scatteringresources_ua.6486592b.png"
   },
   {
+    "revision": "f96ca85c5539fdd8cc0562f76d30b336",
+    "url": "/portfolio/static/media/sh_ci1.f96ca85c.png"
+  },
+  {
+    "revision": "4f83e3e0967d4b573be78e086d844996",
+    "url": "/portfolio/static/media/sh_ci2.4f83e3e0.png"
+  },
+  {
+    "revision": "57999ae1ee2d08930bd741895b30dadc",
+    "url": "/portfolio/static/media/smarthygiene_ci3.57999ae1.png"
+  },
+  {
+    "revision": "f682dace6e9815ad4f94ff01c2ab2357",
+    "url": "/portfolio/static/media/smarthygiene_cl.f682dace.svg"
+  },
+  {
     "revision": "f332b9aba7454f7eab74ba50485b317c",
     "url": "/portfolio/static/media/smarthygiene_dr.f332b9ab.svg"
   },
@@ -332,8 +348,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/smarthygiene_learnings.c2bb9e4d.svg"
   },
   {
+    "revision": "20d37b9fbae7929d90a0fca39d07eb1f",
+    "url": "/portfolio/static/media/smarthygiene_pocp.20d37b9f.svg"
+  },
+  {
+    "revision": "7720d0b066344f193bdedc8f48dc879f",
+    "url": "/portfolio/static/media/smarthygiene_pocp1.7720d0b0.png"
+  },
+  {
     "revision": "7f4b3c8c1e79bcc580d4f4f001092ee2",
     "url": "/portfolio/static/media/smarthygiene_sd.7f4b3c8c.png"
+  },
+  {
+    "revision": "321eb6255adb9963ce6ec5d4d1e80ee7",
+    "url": "/portfolio/static/media/smarthygiene_ut.321eb625.svg"
+  },
+  {
+    "revision": "ef3c3e3e0d7753677d36dd10a8b33eac",
+    "url": "/portfolio/static/media/smarthygiene_utfinding.ef3c3e3e.svg"
   },
   {
     "revision": "092f9143be6b7881df135932dc65f153",
