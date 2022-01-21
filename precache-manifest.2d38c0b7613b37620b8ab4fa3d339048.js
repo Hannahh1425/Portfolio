@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15c53983abeb7cc60df3c1aa4cf4c1d9",
+    "revision": "772b465b0bec4232b5cd9a556d325ea6",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "45ef9ce4721d67ef2c64",
+    "revision": "944e1c417295f3f151fd",
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "cf004096f8e9951661e7",
-    "url": "/portfolio/static/css/main.8a01e995.chunk.css"
+    "revision": "056107eaac86eb3b210a",
+    "url": "/portfolio/static/css/main.dd57850b.chunk.css"
   },
   {
-    "revision": "45ef9ce4721d67ef2c64",
-    "url": "/portfolio/static/js/2.8d461b24.chunk.js"
+    "revision": "944e1c417295f3f151fd",
+    "url": "/portfolio/static/js/2.6bf9e29c.chunk.js"
   },
   {
     "revision": "609352ea6af9e0ac98be5b5fe36b1f6a",
-    "url": "/portfolio/static/js/2.8d461b24.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.6bf9e29c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf004096f8e9951661e7",
-    "url": "/portfolio/static/js/main.46e38d42.chunk.js"
+    "revision": "056107eaac86eb3b210a",
+    "url": "/portfolio/static/js/main.32513fbc.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -328,6 +328,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/scatteringresources_ua.df448562.png"
   },
   {
+    "revision": "19760afc08078d343b02aa23a747ab08",
+    "url": "/portfolio/static/media/sh_ci.19760afc.svg"
+  },
+  {
     "revision": "f96ca85c5539fdd8cc0562f76d30b336",
     "url": "/portfolio/static/media/sh_ci1.f96ca85c.png"
   },
@@ -364,8 +368,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/smarthygiene_pocp1.7720d0b0.png"
   },
   {
-    "revision": "7f4b3c8c1e79bcc580d4f4f001092ee2",
-    "url": "/portfolio/static/media/smarthygiene_sd.7f4b3c8c.png"
+    "revision": "dca1735ddd1fbbbfbd8dc330e2e37190",
+    "url": "/portfolio/static/media/smarthygiene_sd.dca1735d.png"
   },
   {
     "revision": "05fc2051e96e631dfd6656fb606e2b93",
