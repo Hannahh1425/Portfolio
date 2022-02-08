@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e227df6000d2e4fa1795a41b678782f2",
+    "revision": "6bd933a3ad6d38873a935526b4885c24",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "f931b01c726661f44360",
+    "revision": "0154b0611376deaabc6e",
     "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
   },
   {
-    "revision": "db18acbd25ed73ddd1a2",
-    "url": "/portfolio/static/css/main.e4d0c521.chunk.css"
+    "revision": "f5f4cd835a5ff783eb3b",
+    "url": "/portfolio/static/css/main.c470f716.chunk.css"
   },
   {
-    "revision": "f931b01c726661f44360",
-    "url": "/portfolio/static/js/2.aec06096.chunk.js"
+    "revision": "0154b0611376deaabc6e",
+    "url": "/portfolio/static/js/2.623e04cc.chunk.js"
   },
   {
     "revision": "609352ea6af9e0ac98be5b5fe36b1f6a",
-    "url": "/portfolio/static/js/2.aec06096.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.623e04cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db18acbd25ed73ddd1a2",
-    "url": "/portfolio/static/js/main.a8d62599.chunk.js"
+    "revision": "f5f4cd835a5ff783eb3b",
+    "url": "/portfolio/static/js/main.a0142aed.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f6bf003fe76575a7b8809c6c82b6a583",
     "url": "/portfolio/static/media/home_capitalsphere.f6bf003f.png"
+  },
+  {
+    "revision": "b1bc3a25c4a055c0dd779057cfcf9a03",
+    "url": "/portfolio/static/media/home_intro.b1bc3a25.svg"
   },
   {
     "revision": "d7c10d4b21bc3087e200a858cb3bd3cd",
@@ -358,6 +362,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "42d2fd503e3e83a88ced715de01cbad9",
     "url": "/portfolio/static/media/sr_plan.42d2fd50.svg"
+  },
+  {
+    "revision": "ff07882b10dcdf5830eb9644706b020e",
+    "url": "/portfolio/static/media/sr_process.ff07882b.jpg"
   },
   {
     "revision": "04b255ec27be481471159d675f7aa836",
