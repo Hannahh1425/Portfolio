@@ -1,31 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6d952614a3e0d009c3f84f8b69672ec",
+    "revision": "57129e2be907e41dcf58b1e1877759b8",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "da63fba7096962e42d93",
-    "url": "/portfolio/static/css/2.1ba447cc.chunk.css"
+    "revision": "ef0420bcd94a83fb89bf",
+    "url": "/portfolio/static/css/main.17b08d30.chunk.css"
   },
   {
-    "revision": "49d7d9214265a82741d6",
-    "url": "/portfolio/static/css/main.c470f716.chunk.css"
+    "revision": "c77f70e81f7663e8bb7f",
+    "url": "/portfolio/static/js/2.a420fb87.chunk.js"
   },
   {
-    "revision": "da63fba7096962e42d93",
-    "url": "/portfolio/static/js/2.3a712493.chunk.js"
+    "revision": "ef0420bcd94a83fb89bf",
+    "url": "/portfolio/static/js/main.516294fd.chunk.js"
   },
   {
-    "revision": "609352ea6af9e0ac98be5b5fe36b1f6a",
-    "url": "/portfolio/static/js/2.3a712493.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "49d7d9214265a82741d6",
-    "url": "/portfolio/static/js/main.a45bb1e0.chunk.js"
-  },
-  {
-    "revision": "7a6cc99bd8f08f9fa6ec",
-    "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
+    "revision": "6b26cb3bc1b9147ba086",
+    "url": "/portfolio/static/js/runtime-main.86a05020.js"
   },
   {
     "revision": "675459441d08f3612b1e5b8de395bcdd",
@@ -312,8 +304,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/smarthygiene_cl.f682dace.svg"
   },
   {
-    "revision": "f332b9aba7454f7eab74ba50485b317c",
-    "url": "/portfolio/static/media/smarthygiene_dr.f332b9ab.svg"
+    "revision": "b1e41d293b6fc769438b063b6bf59f4a",
+    "url": "/portfolio/static/media/smarthygiene_dr.b1e41d29.png"
   },
   {
     "revision": "655cdba7c1d770b710b4dc285928725b",
@@ -332,8 +324,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/smarthygiene_pocp1.7720d0b0.png"
   },
   {
-    "revision": "0235600a6b1c061e9b38e373ef1421d7",
-    "url": "/portfolio/static/media/smarthygiene_sd.0235600a.png"
+    "revision": "0b19b8ffc9ce192009f8f8f954ffafab",
+    "url": "/portfolio/static/media/smarthygiene_sd.0b19b8ff.png"
   },
   {
     "revision": "05fc2051e96e631dfd6656fb606e2b93",
