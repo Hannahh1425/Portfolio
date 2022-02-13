@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57129e2be907e41dcf58b1e1877759b8",
+    "revision": "c4678b23f56df9493c9688f82b00888a",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "ef0420bcd94a83fb89bf",
-    "url": "/portfolio/static/css/main.17b08d30.chunk.css"
+    "revision": "ea0c63924734e3504c84",
+    "url": "/portfolio/static/css/main.0d77e356.chunk.css"
   },
   {
-    "revision": "c77f70e81f7663e8bb7f",
-    "url": "/portfolio/static/js/2.a420fb87.chunk.js"
+    "revision": "f704002e891ff98f3dce",
+    "url": "/portfolio/static/js/2.261a913b.chunk.js"
   },
   {
-    "revision": "ef0420bcd94a83fb89bf",
-    "url": "/portfolio/static/js/main.516294fd.chunk.js"
+    "revision": "ea0c63924734e3504c84",
+    "url": "/portfolio/static/js/main.1de452ea.chunk.js"
   },
   {
     "revision": "6b26cb3bc1b9147ba086",
@@ -24,8 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/YuhanWang_Resume.67545944.pdf"
   },
   {
-    "revision": "44d9e27de716ea709179674a59e5f986",
-    "url": "/portfolio/static/media/aboutme.44d9e27d.png"
+    "revision": "953a97fa1d042fb3cc7b1b86c9e22453",
+    "url": "/portfolio/static/media/about_books.953a97fa.png"
+  },
+  {
+    "revision": "5da9e0d41ce8d657e9c44a46fd2c4978",
+    "url": "/portfolio/static/media/aboutme.5da9e0d4.png"
   },
   {
     "revision": "9272d723f3e347c1acad3e84b1039414",
@@ -116,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/home_capitalsphere.f6bf003f.png"
   },
   {
-    "revision": "b1bc3a25c4a055c0dd779057cfcf9a03",
-    "url": "/portfolio/static/media/home_intro.b1bc3a25.svg"
+    "revision": "62e7e5d9d8357e6aa549963b3f75adc9",
+    "url": "/portfolio/static/media/home_intro.62e7e5d9.svg"
   },
   {
     "revision": "d7c10d4b21bc3087e200a858cb3bd3cd",
@@ -296,6 +300,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/sh_ciplan.2abbd5f2.png"
   },
   {
+    "revision": "ddb9abf2935a67e5ec140234edd5c962",
+    "url": "/portfolio/static/media/sh_magnifier.ddb9abf2.png"
+  },
+  {
+    "revision": "6f92cc8fbe8702ff456878f8403d4245",
+    "url": "/portfolio/static/media/sh_story.6f92cc8f.png"
+  },
+  {
     "revision": "57999ae1ee2d08930bd741895b30dadc",
     "url": "/portfolio/static/media/smarthygiene_ci3.57999ae1.png"
   },
@@ -316,12 +328,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/smarthygiene_learnings.c2bb9e4d.svg"
   },
   {
-    "revision": "20d37b9fbae7929d90a0fca39d07eb1f",
-    "url": "/portfolio/static/media/smarthygiene_pocp.20d37b9f.svg"
+    "revision": "6db383ce8b87b5458d1467fc345087cd",
+    "url": "/portfolio/static/media/smarthygiene_pocp.6db383ce.svg"
   },
   {
-    "revision": "7720d0b066344f193bdedc8f48dc879f",
-    "url": "/portfolio/static/media/smarthygiene_pocp1.7720d0b0.png"
+    "revision": "f0da982e33e5a350d2891cf8500810b2",
+    "url": "/portfolio/static/media/smarthygiene_pocp1.f0da982e.png"
   },
   {
     "revision": "0b19b8ffc9ce192009f8f8f954ffafab",
