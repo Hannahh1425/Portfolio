@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0d77e356.chunk.css",
-    "main.js": "/portfolio/static/js/main.061e21c2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.061e21c2.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.10e420e2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.10e420e2.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.86a05020.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.86a05020.js.map",
-    "static/js/2.d1a7b603.chunk.js": "/portfolio/static/js/2.d1a7b603.chunk.js",
-    "static/js/2.d1a7b603.chunk.js.map": "/portfolio/static/js/2.d1a7b603.chunk.js.map",
+    "static/js/2.e038a071.chunk.js": "/portfolio/static/js/2.e038a071.chunk.js",
+    "static/js/2.e038a071.chunk.js.map": "/portfolio/static/js/2.e038a071.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.96e57841b03d6c1e82f7ff427cf94157.js": "/portfolio/precache-manifest.96e57841b03d6c1e82f7ff427cf94157.js",
+    "precache-manifest.adc489d1817c32c182b5d08c236439f9.js": "/portfolio/precache-manifest.adc489d1817c32c182b5d08c236439f9.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.0d77e356.chunk.css.map": "/portfolio/static/css/main.0d77e356.chunk.css.map",
     "static/media/YuhanWang_Resume.pdf": "/portfolio/static/media/YuhanWang_Resume.67545944.pdf",
@@ -36,7 +36,6 @@
     "static/media/capitalsphere_sp6.png": "/portfolio/static/media/capitalsphere_sp6.7c89bfe8.png",
     "static/media/capitalsphere_sp7.png": "/portfolio/static/media/capitalsphere_sp7.d8e5928c.png",
     "static/media/home_capitalsphere.png": "/portfolio/static/media/home_capitalsphere.f6bf003f.png",
-    "static/media/home_intro.svg": "/portfolio/static/media/home_intro.62e7e5d9.svg",
     "static/media/home_litonail.png": "/portfolio/static/media/home_litonail.d7c10d4b.png",
     "static/media/home_meeting.png": "/portfolio/static/media/home_meeting.c54770ad.png",
     "static/media/home_smarthygiene.png": "/portfolio/static/media/home_smarthygiene.ded6ac27.png",
@@ -112,8 +111,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.86a05020.js",
-    "static/js/2.d1a7b603.chunk.js",
+    "static/js/2.e038a071.chunk.js",
     "static/css/main.0d77e356.chunk.css",
-    "static/js/main.061e21c2.chunk.js"
+    "static/js/main.10e420e2.chunk.js"
   ]
 }
