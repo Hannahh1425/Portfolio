@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0d77e356.chunk.css",
-    "main.js": "/portfolio/static/js/main.022c0dd0.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.022c0dd0.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b1e798c8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b1e798c8.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.86a05020.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.86a05020.js.map",
-    "static/js/2.3feadc96.chunk.js": "/portfolio/static/js/2.3feadc96.chunk.js",
-    "static/js/2.3feadc96.chunk.js.map": "/portfolio/static/js/2.3feadc96.chunk.js.map",
+    "static/js/2.e88a37ae.chunk.js": "/portfolio/static/js/2.e88a37ae.chunk.js",
+    "static/js/2.e88a37ae.chunk.js.map": "/portfolio/static/js/2.e88a37ae.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.7760fd4131310f99621ee2d59aa9544d.js": "/portfolio/precache-manifest.7760fd4131310f99621ee2d59aa9544d.js",
+    "precache-manifest.612a9f3c32136c16828260478efa8579.js": "/portfolio/precache-manifest.612a9f3c32136c16828260478efa8579.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.0d77e356.chunk.css.map": "/portfolio/static/css/main.0d77e356.chunk.css.map",
     "static/media/YuhanWang_Resume.pdf": "/portfolio/static/media/YuhanWang_Resume.de11e92e.pdf",
@@ -108,6 +108,7 @@
     "static/media/sr_utdata.png": "/portfolio/static/media/sr_utdata.774df6d7.png",
     "static/media/sweet_analysis.png": "/portfolio/static/media/sweet_analysis.049d52fa.png",
     "static/media/sweet_challenge.png": "/portfolio/static/media/sweet_challenge.ee091cfa.png",
+    "static/media/sweet_da.png": "/portfolio/static/media/sweet_da.ef86967f.png",
     "static/media/sweet_method.svg": "/portfolio/static/media/sweet_method.9f1886b9.svg",
     "static/media/sweet_problem.png": "/portfolio/static/media/sweet_problem.75d4d808.png",
     "static/media/sweet_process.jpg": "/portfolio/static/media/sweet_process.4647fca0.jpg",
@@ -115,8 +116,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.86a05020.js",
-    "static/js/2.3feadc96.chunk.js",
+    "static/js/2.e88a37ae.chunk.js",
     "static/css/main.0d77e356.chunk.css",
-    "static/js/main.022c0dd0.chunk.js"
+    "static/js/main.b1e798c8.chunk.js"
   ]
 }
