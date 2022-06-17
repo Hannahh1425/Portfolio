@@ -1,0 +1,41 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@use-gesture/react": "^10.2.11",
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-ga": "^3.3.0",
+    "react-icons": "^4.3.1",
+    "react-responsive-carousel": "^3.2.21",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.2.0",
+    "react-spring": "^9.4.4",
+    "react-tsparticles": "^2.0.6",
+    "styled-components": "^4.4.1",
+    "tsparticles": "^2.0.5"
+  },
+  "homepage": "http://hannahh1425.github.io/portfolio",
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

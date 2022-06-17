@@ -1,0 +1,781 @@
+/*******************************Header*****************************/
+nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    style: none;
+}
+
+.nav-link {
+    text-decoration: none!important;
+    /* color: #798897!important; */
+    /* color: #B3AA99!important; */
+    /* color: rbg(255,255,255,0)!important; */
+}
+
+.nav-link:hover {
+  color: #333!important;
+}
+
+
+.navbar {
+  padding: 0.5rem 2rem;
+  background-color: rgba(255, 255, 255, 0);
+  z-index: 1;
+}
+
+.navbar-brand img{
+    width: 2.5em;
+}
+
+
+
+
+.portfolio_btn {
+  color: red;
+}
+
+.nav-item {
+    margin-left: 30px;
+    font-size: 1rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+}
+
+.nav-item a {
+    color: #3C331A;
+}
+
+.nav-item i {
+  font-size: 14px;
+  opacity: 0.5;
+}
+
+.dropdown-menu a:focus {
+    background-color: #90C4E9;
+}
+
+.dropdown button {
+  font-weight: 300;
+}
+
+.footer-icon {
+  text-align: center;
+}
+
+.footer-icon i {
+  color: #798897;
+  opacity: 0.9;
+  font-size: 24px;
+  padding: 0px 8px 16px 8px;
+}
+
+.footer-icon i:hover {
+  color: #798897;
+  opacity: 1;
+  font-size: 24px;
+  padding: 0px 8px 16px 8px;
+}
+
+.portfolio_btn {
+    background: none;
+    border: none;
+}
+
+.portfolio_btn:focus {
+  outline: none;
+}
+
+/*******************************Guide*****************************/
+.guide {
+    box-shadow:1px 1px 10px 0px grey;
+}
+
+.guide button {
+    background: none;
+    border: none;
+    font-family: 'Cardo', serif;
+}
+
+.guide p {
+    margin-bottom: 0;
+    font-size: 0.75rem;
+    color: rgba(33, 33, 33, 0.4);
+}
+
+/*******************************Context*****************************/
+
+#context p {
+    /* font-family: 'Josefin Sans', sans-serif; */
+    color: gray;
+    font-size: 18px;
+    margin: 0;
+}
+
+#context i {
+    color: #e3e3e3;
+    padding-right: 0.5em;
+}
+
+
+#context h1 {
+    font-family: 'Cardo', serif;
+    font-weight: 900;
+}
+
+#context h4 {
+  font-family: 'Cardo', serif;
+}
+
+.brief .row {
+    padding-bottom: 0.75rem;
+}
+
+.brief i {
+    font-size: 1rem;
+    padding-right: 0.75em;
+}
+
+.brief h5 {
+    font-family: 'Cardo', serif;
+    padding-bottom: 0.1rem;
+}
+
+.brief img {
+    display: none;
+}
+
+/*******************************Research*****************************/
+#research {
+    min-height: 85vh;
+}
+
+/*Tablet*/
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+
+    .guide {
+        position: fixed;
+    }
+
+    .brief img {
+        width: 100%;
+        display: block;
+    }
+
+    #context i {
+        color: #e3e3e3;
+        padding-right: 0.5em;
+        padding-left: 1em;
+    }
+
+    .team {
+        padding-left: 0!important;
+    }
+
+}
+
+/*Laptop*/
+@media screen and (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+
+    .project-boxes .row {
+        margin-bottom: 30px;
+    }
+
+    .guide {
+        display: block;
+        position: fixed;
+    }
+
+    .brief img {
+        width: 100%;
+        display: block;
+    }
+
+    #context i {
+        color: #e3e3e3;
+        padding-right: 0.5em;
+        padding-left: 1em;
+    }
+
+    .team {
+        padding-left: 0!important;
+    }
+
+}
+
+
+
+/*
+#header {
+  height: 18% !important;
+}
+
+#header div {
+  height: 54%;
+}
+
+#header img {
+  position: fixed;
+  width: 6.5rem;
+  margin-left: 2%;
+  cursor: pointer;
+  filter: drop-shadow(3px 3px 4px #3B4856);
+  z-index: 6;
+}
+
+.demo-link {
+  font-size: 1.5rem;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.title {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  letter-spacing: 0.05em;
+  margin: 0;
+  z-index: 4;
+  position: relative;
+}
+
+.title-white {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  letter-spacing: 0.05em;
+  color: white;
+  margin: 0;
+  z-index: 4;
+  position: relative;
+}
+
+
+.nav {
+  height: auto;
+}
+
+ul {
+  list-style-type: none;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  height: 4em!important;
+  background-color: white;
+  right: 0;
+  height: auto;
+  z-index: 5;
+}
+
+li {
+  float: right;
+}
+
+li p {
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  font-size: 1.25rem;
+  padding: 1em 3em 0 0;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+.dropbtn {
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  font-size: 1.25rem;
+  padding: 1em 3em 0 0;
+  color: black;
+  text-align: center;
+  background: none;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  font-size: 1rem;
+  padding: 1em 2em 1em 1em;
+  text-decoration: none;
+  display: block;
+}
+
+#drop-capitalsphere a {
+  background-color: #35658c;
+}
+
+#drop-medalarm a {
+  background-color: #A8EDDD;
+}
+
+#drop-litonail a {
+  background-color: #BFD6D9;
+}
+
+#drop-familyhub a {
+  background-color: #f7d865;
+}
+
+#drop-about a {
+  background-color: #f7f78c;
+}
+
+.dropdown-content a:hover {
+  text-decoration: underline;
+}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
+.capitalsphere-bg {
+  background-color: #457CA9;
+}
+
+.capitalsphere-bg p {
+  color: #E6F4F1;
+}
+
+.familyhub-bg {
+  background-color: #FCDC84;
+}
+
+.familyhub-bg p {
+  color: #4C4637;
+}
+
+.litonail-bg {
+  background-color: #E6F4F1;
+}
+
+.medalarm-bg {
+  background-color: #D5F4FF;
+}
+
+.medalarm-bg p, h5 {
+  color: #37535C;
+}
+
+.project-selected {
+  cursor: pointer;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: -30px;
+  filter: drop-shadow(10px 8px 4px #444444);
+}
+
+.project {
+  width: 80%;
+  margin-left: 10%;
+  filter: drop-shadow(10px 8px 4px #3B4856);
+}
+
+.default p {
+  text-align: center;
+  font-size: 1.75rem;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.1em;
+  padding: 0.5em 0 2em 0;
+}
+
+.guide > p {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.05em;
+  padding: 0.7em 0 0 0;
+}
+
+.links {
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.05em;
+}
+
+.learn-more {
+  width: 24%;
+  margin-left: 38%;
+  margin-bottom: 100px;
+}
+
+.learn-more button {
+  border: 4px solid black;
+  background: transparent;
+  border-radius: 0.2rem;
+  font-size: 1.125rem;
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  width: 45%;
+  padding: 15px 0;
+  color: black;
+  letter-spacing: 0.1em;
+}
+
+.demo-mobile {
+  width: 24%;
+  position: absolute;
+  top: 13%;
+  left: 11%;
+  padding-top: 202.9%;
+}
+
+.iphone {
+  width: 100%;
+  height: 24%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background: center no-repeat;
+  background-size: cover;
+  background-image: url('../img/iphone.png');
+}
+
+.demo-screen {
+  position: absolute;
+  top: 13%;
+  left: 7%;
+  overflow-y: scroll;
+  width: 100%;
+  padding-top: 52%;
+  height: 75.3%;
+}
+
+.demo-screen img {
+  top: 0;
+  width: 86%;
+  position: absolute;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.demo-desktop {
+  width: 50%;
+  position: absolute;
+  top: 40%;
+  left: 1%;
+  padding-top: 56.25%;
+}
+
+.desktop {
+  width: 100%;
+  height: 52%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background: center no-repeat;
+  background-size: cover;
+  background-image: url('../img/desktop2.png');
+}
+
+.demo-screen-desktop {
+  position: absolute;
+  top: 5.7%;
+  left: 5%;
+  overflow-y: scroll;
+  width: 100%;
+  padding-top: 47%;
+  height: 80%;
+}
+
+.demo-screen-desktop img {
+  top: 0;
+  width: 90%;
+  position: absolute;
+}
+
+
+.summary-mobile {
+  width: 50%;
+  margin-left: 42%;
+  padding-top: 5em;
+  height: auto;
+}
+
+.summary-mobile p {
+  font-size: 1.6rem;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.05em;
+  text-indent: 1.5em;
+}
+
+.summary-mobile div {
+  width: 100%;
+}
+
+.tag {
+  height: auto;
+  margin-left: 42%;
+  width: 50%!important;
+  margin-bottom: 4em;
+}
+
+.tag h5 {
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  letter-spacing: 0.05em;
+  border-radius: 10px;
+  width: 90%;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.tag-litonail {
+  background-color: #BFD6D9;
+}
+
+.tag-medalarm {
+  background-color: #A8EDDD;
+}
+
+.highlight-mobile {
+  width: 55% !important;
+  margin-top: 2em;
+  margin-left: 42%;
+  height: auto;
+}
+
+.left img {
+  width: 17%;
+  float: left;
+}
+
+.right img {
+  width: 13%;
+  float: left;
+}
+
+.left p {
+  font-size: 1.3rem;
+  font-weight: 600;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  padding-left: 2.9em;
+}
+
+.right p {
+  font-size: 1.3rem;
+  font-weight: 600;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  padding-left: 2.5em;
+}
+
+.down button {
+  border: none;
+  font-size: 3.5rem;
+  width: 12%;
+  margin-left: 44%;
+  margin-top: 10%;
+  background-color: transparent;
+}
+
+.down p {
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.2rem;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.summary-desktop {
+  width: 40%;
+  margin-left: 53%;
+  height: auto;
+}
+
+.summary-desktop p {
+  font-size: 1.6rem;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.04em;
+  text-indent: 1.5em;
+  padding-top: 1em;
+}
+
+.tag-desktop {
+  height: auto;
+  margin-left: 53%;
+  width: 47%!important;
+}
+
+.tag-desktop h5 {
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  letter-spacing: 0.05em;
+  border-radius: 10px;
+  width: 90%;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.tag-familyhub {
+  background-color: #f7d865;
+}
+
+.tag-capitalsphere {
+  background-color: #35658c;
+  color: white;
+}
+
+.highlight-desktop {
+  width: 80% !important;
+  margin-top: 4em;
+  margin-left: 17%;
+  height: auto;
+}
+
+.highlight-desktop img {
+  width: 10%;
+}
+
+.takeaway-mobile {
+  padding-bottom: 3em;
+  width: 70%!important;
+  margin-left: 15%;
+}
+
+
+.takeaway-mobile h6 {
+  font-size: 1.1rem;
+  margin-left: 12%;
+  font-weight: 600;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.progress-icon {
+  width: 10%;
+  float: left;
+}
+
+.progress-icon ~ img {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.text p {
+  text-align: center;
+}
+
+.text > div {
+  margin-bottom: 1.5em;
+}
+
+.progress-icon-text {
+  width: 3.5%;
+  float: left;
+
+}
+
+.up button {
+  border: none;
+  font-size: 3.5rem;
+  width: 12%;
+  margin-left: 44%;
+  background-color: transparent;
+}
+
+.up p {
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.2rem;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.takeaway-desktop {
+  width: 80%!important;
+  margin-left: 10%;
+}
+
+.takeaway-desktop h6 {
+  font-size: 1.1rem;
+  margin-left: 8%;
+  font-weight: 600;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.progress-icon-desktop {
+  width: 6%;
+  float: left;
+}
+
+.progress-icon-desktop ~ img {
+  width: 95%;
+}
+
+.progress-icon-desktop ~ div img {
+  width: 95%;
+  top: 0;
+  position: absolute;
+}
+
+.progress-icon-desktop ~ div {
+  position: absolute;
+  width: 100%;
+  padding-top: 55%;
+  overflow: scroll;
+}
+
+.text-desktop {
+  margin-top: 25%;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding: 8em 0 0 2%;
+  width: 11em;
+  height: 100%;
+  z-index: 0;
+}
+
+#capitalsphere-side {
+  background-color: #35658c;
+}
+
+#medalarm-side {
+  background-color: #A8EDDD;
+}
+
+#familyhub-side {
+  background-color: #f9d77a;
+}
+
+#litonail-side {
+  background-color: #BFD6D9;
+}
+
+#about-side {
+  background-color: #f7f78c;
+}
+
+.sidebar p {
+  font-size: 1.3rem;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-weight: 600;
+  margin-bottom: 2em;
+  cursor: pointer;
+}
+ */

@@ -1,0 +1,111 @@
+
+
+
+/*****************************Home********************************/
+
+.d4sd-box {
+    background-image: linear-gradient(to top left, #7852C9, #4496FF);
+    width: 100%;
+    height: 330px;
+}
+
+.litonail-box {
+    background-image: linear-gradient(to top left, black, white);
+    width: 100%;
+    height: 330px;
+}
+
+.capitalsphere-box {
+    background-image: linear-gradient(to top left, #021B79, white);
+    width: 100%;
+    height: 330px;
+}
+
+.medalarm-box{
+    background-image: linear-gradient(to top left, #BBADA1, #97D5B3);
+    width: 100%;
+    height: 330px;
+}
+
+/********************************Mobile********************************/
+.container {
+    max-width: 375px;
+}
+
+/*****************************Lito nail********************************/
+.next_btn {
+    position: fixed;
+    right: calc(50vw - 585px);
+    margin: 0;
+    bottom: 2em;
+    border: 3px solid #8095CE;
+    padding: 0.5em;
+    border-radius: 10px;
+    background-color: white;
+    /* box-shadow:5px 5px 10px 0px grey; */
+}
+
+.next_btn a {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: #8095CE;
+}
+
+.next_btn i {
+    padding-left: 5px;
+}
+
+/******************************About**********************************/
+.about h1 {
+    font-weight: 900;
+}
+
+.about h2 {
+    color: #8095CE;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/******************************Contact**********************************/
+.contact h3 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.contact i {
+    font-size: 32px;
+    padding-right: 24px;
+}
+
+.contact a {
+    color: #90C4E9;
+    text-decoration: underline;
+}
+
+.contact p {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgba(177, 190, 234, 0.4);
+    font-size: 108px;
+    font-weight: 900;
+}
+
+
+
+/*****************************Media Query********************************/
+/*Tablet*/
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 720px;
+        padding-bottom: 100px;
+    }
+  }
+
+/*Laptop*/
+@media screen and (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+        padding-bottom: 100px;
+    }
+
+    .project-boxes .row {
+        margin-bottom: 30px;
+    }
+}
