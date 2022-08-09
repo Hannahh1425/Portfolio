@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f9833a32355cd3de2b39df117e12d51",
+    "revision": "848a015ef1e6adfaef8517235e37b1b9",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "bddcf0fa638ff260eeca",
-    "url": "/portfolio/static/css/main.6e83d526.chunk.css"
+    "revision": "e0f2bdc34d4ea7f4d4a9",
+    "url": "/portfolio/static/css/main.b5443655.chunk.css"
   },
   {
-    "revision": "bb8577ea4d664aa40d31",
-    "url": "/portfolio/static/js/2.d1c5d4df.chunk.js"
+    "revision": "fb44a8a665577c9d22dc",
+    "url": "/portfolio/static/js/2.fd842054.chunk.js"
   },
   {
-    "revision": "6d9be1da73adfa4bd40d",
-    "url": "/portfolio/static/js/3.ddb21bb0.chunk.js"
+    "revision": "55f9e84c6c98adea17bbbbc847588643",
+    "url": "/portfolio/static/js/2.fd842054.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bddcf0fa638ff260eeca",
-    "url": "/portfolio/static/js/main.50720c99.chunk.js"
+    "revision": "95dafe879c435029f215",
+    "url": "/portfolio/static/js/3.22cd11fe.chunk.js"
   },
   {
-    "revision": "aafd1bfa688417a7e95f",
-    "url": "/portfolio/static/js/runtime-main.211b0e66.js"
+    "revision": "e0f2bdc34d4ea7f4d4a9",
+    "url": "/portfolio/static/js/main.e0383782.chunk.js"
+  },
+  {
+    "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
+    "url": "/portfolio/static/js/main.e0383782.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "e17fa9efe637da3b6f34",
+    "url": "/portfolio/static/js/runtime-main.7a002bd0.js"
   },
   {
     "revision": "f0327ccb1fe9a6f4580ef387a1062bad",
@@ -154,6 +162,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1d1f38c3550d71779acc598f0d3c98cb",
     "url": "/portfolio/static/media/homebg.1d1f38c3.jpg"
+  },
+  {
+    "revision": "658e068c9e27dc6dba0c9bde292c0d2f",
+    "url": "/portfolio/static/media/kloa_cmodel.658e068c.png"
+  },
+  {
+    "revision": "3edd8d90c15e7b1c92acc851c6c46b56",
+    "url": "/portfolio/static/media/kloa_home.3edd8d90.png"
+  },
+  {
+    "revision": "4adc141e5cd76d50942faff2af4a2c14",
+    "url": "/portfolio/static/media/kloa_logo.4adc141e.png"
   },
   {
     "revision": "14638598ccc2cb54f8e17f758244a309",
@@ -294,6 +314,66 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e938f50e47860cafa6299f97fb1792a",
     "url": "/portfolio/static/media/meeting_result2.7e938f50.png"
+  },
+  {
+    "revision": "187ef2dd4acae7d34158a4b83bfb3ab9",
+    "url": "/portfolio/static/media/packed_brainstorm.187ef2dd.png"
+  },
+  {
+    "revision": "a1a221f01a61d48909e1b1e088751700",
+    "url": "/portfolio/static/media/packed_ct.a1a221f0.png"
+  },
+  {
+    "revision": "d3f0b4654645a7b386af4679f16f4532",
+    "url": "/portfolio/static/media/packed_gr.d3f0b465.png"
+  },
+  {
+    "revision": "b4a16c5f24e4b0170ac449ac31276179",
+    "url": "/portfolio/static/media/packed_grinsights.b4a16c5f.png"
+  },
+  {
+    "revision": "d02c8066772395d8265262b3d1710109",
+    "url": "/portfolio/static/media/packed_home.d02c8066.png"
+  },
+  {
+    "revision": "f367658d09e124c4be2081914a1582b6",
+    "url": "/portfolio/static/media/packed_journeymap.f367658d.png"
+  },
+  {
+    "revision": "209f83cdbb02d44e577f43bbbadd6033",
+    "url": "/portfolio/static/media/packed_logo.209f83cd.png"
+  },
+  {
+    "revision": "07c8b224ce954bc429861c8d40eb7c39",
+    "url": "/portfolio/static/media/packed_persona1.07c8b224.png"
+  },
+  {
+    "revision": "541bbfc4d617c3ce1bc36ce537f917af",
+    "url": "/portfolio/static/media/packed_persona2.541bbfc4.png"
+  },
+  {
+    "revision": "bfa48d53731ca4ae16c3ed635506d006",
+    "url": "/portfolio/static/media/packed_process.bfa48d53.png"
+  },
+  {
+    "revision": "28280814ddfc499eb241202d0c15f7f3",
+    "url": "/portfolio/static/media/packed_solution.28280814.gif"
+  },
+  {
+    "revision": "246fa855c677f4ff82fd834d60db2be0",
+    "url": "/portfolio/static/media/packed_solution1.246fa855.gif"
+  },
+  {
+    "revision": "8c2b451aedc1c97bb014734daf311d9a",
+    "url": "/portfolio/static/media/packed_solution2.8c2b451a.gif"
+  },
+  {
+    "revision": "c70b48e02c672ed406fe1bff8ef5e2db",
+    "url": "/portfolio/static/media/packed_value.c70b48e0.png"
+  },
+  {
+    "revision": "71c601df1de8319da62c764e5c6318ea",
+    "url": "/portfolio/static/media/packed_xp.71c601df.png"
   },
   {
     "revision": "df448562e90cae32520d8b79ea33a060",
