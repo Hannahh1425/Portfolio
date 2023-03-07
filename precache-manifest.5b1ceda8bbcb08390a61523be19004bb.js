@@ -1,35 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "848a015ef1e6adfaef8517235e37b1b9",
+    "revision": "5a6bf28c77fb4c3c8547ad33fb569d47",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "e0f2bdc34d4ea7f4d4a9",
+    "revision": "98681fea589dd790cce5",
     "url": "/portfolio/static/css/main.b5443655.chunk.css"
   },
   {
-    "revision": "fb44a8a665577c9d22dc",
-    "url": "/portfolio/static/js/2.fd842054.chunk.js"
+    "revision": "2e009acad5bd23f7d8bb",
+    "url": "/portfolio/static/js/2.9421e2ad.chunk.js"
   },
   {
     "revision": "55f9e84c6c98adea17bbbbc847588643",
-    "url": "/portfolio/static/js/2.fd842054.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.9421e2ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95dafe879c435029f215",
-    "url": "/portfolio/static/js/3.22cd11fe.chunk.js"
+    "revision": "414a74e25568b14ee8b3",
+    "url": "/portfolio/static/js/3.e1a450ed.chunk.js"
   },
   {
-    "revision": "e0f2bdc34d4ea7f4d4a9",
-    "url": "/portfolio/static/js/main.e0383782.chunk.js"
+    "revision": "98681fea589dd790cce5",
+    "url": "/portfolio/static/js/main.16714ff0.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/portfolio/static/js/main.e0383782.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/main.16714ff0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e17fa9efe637da3b6f34",
-    "url": "/portfolio/static/js/runtime-main.7a002bd0.js"
+    "revision": "6b764de37edaca29fa2d",
+    "url": "/portfolio/static/js/runtime-main.0edba7ea.js"
+  },
+  {
+    "revision": "791f6d1a88ee4e3acaa2a2e6a76df64a",
+    "url": "/portfolio/static/media/HIL_home.791f6d1a.png"
   },
   {
     "revision": "f0327ccb1fe9a6f4580ef387a1062bad",
@@ -128,6 +132,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/capitalsphere_sp7.d8e5928c.png"
   },
   {
+    "revision": "dc3350612b0339a55aa4bed09be56bfe",
+    "url": "/portfolio/static/media/devmatch_home.dc335061.png"
+  },
+  {
     "revision": "f6bf003fe76575a7b8809c6c82b6a583",
     "url": "/portfolio/static/media/home_capitalsphere.f6bf003f.png"
   },
@@ -168,8 +176,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/kloa_cmodel.658e068c.png"
   },
   {
-    "revision": "3edd8d90c15e7b1c92acc851c6c46b56",
-    "url": "/portfolio/static/media/kloa_home.3edd8d90.png"
+    "revision": "bd903f78a5fe9ec0db5bd5b05af38778",
+    "url": "/portfolio/static/media/kloa_home.bd903f78.png"
+  },
+  {
+    "revision": "2f08c35afd113f4b5ced96ea924e03cf",
+    "url": "/portfolio/static/media/kloa_keyboard.2f08c35a.png"
   },
   {
     "revision": "4adc141e5cd76d50942faff2af4a2c14",
@@ -332,8 +344,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/packed_grinsights.b4a16c5f.png"
   },
   {
-    "revision": "d02c8066772395d8265262b3d1710109",
-    "url": "/portfolio/static/media/packed_home.d02c8066.png"
+    "revision": "93feb1cbe381c8cbe746cd3eaa8c24e4",
+    "url": "/portfolio/static/media/packed_home.93feb1cb.png"
   },
   {
     "revision": "f367658d09e124c4be2081914a1582b6",
